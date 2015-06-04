@@ -24,3 +24,4 @@ _testmain.go
 *.prof
 cert.pem
 key.pem
+.DS_Store
